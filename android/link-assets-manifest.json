@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/icons/background.svg",
+      "sha1": "2eb5309d7bc6c1b4584b469e0cf00b92b11c74de"
+    },
+    {
+      "path": "assets/icons/left-arrow.png",
+      "sha1": "08f1fad7339f0362836bc53975292e2d29c1c921"
+    },
+    {
+      "path": "assets/icons/logo.png",
+      "sha1": "97c6e6762de4787336e122b5bb2de9fb1b06b0d2"
+    },
+    {
+      "path": "assets/icons/qr-code.png",
+      "sha1": "66a013e6ba0ff6b24c0e459ab14229a63d1ba40f"
+    },
+    {
+      "path": "assets/icons/unlock.png",
+      "sha1": "2f20f69d4038bd3130868c72d6cced2a71a8c76c"
+    },
+    {
+      "path": "assets/icons/user.png",
+      "sha1": "14ff8b165709c7bd70fb70cc2769e6a9775b00ad"
+    },
+    {
+      "path": "assets/images/background.png",
+      "sha1": "73485585622441ed7a25b585b32a8cc23472c819"
+    },
+    {
+      "path": "assets/images/check_plate.png",
+      "sha1": "ff6dd67a91059daeaa229e9d804f413dda029966"
+    },
+    {
+      "path": "assets/images/forbidden.png",
+      "sha1": "d512cccaf0982dc774957050e37e08500e032170"
+    },
+    {
+      "path": "assets/images/logo.png",
+      "sha1": "97c6e6762de4787336e122b5bb2de9fb1b06b0d2"
+    },
+    {
+      "path": "assets/images/qr.png",
+      "sha1": "668e4ff4589878e6e0aef49695c94c601686f351"
+    }
+  ]
+}
